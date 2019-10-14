@@ -1,4 +1,4 @@
-# react-typescript-starter
+# react-typescript-boilerplate
 
 This project is no longer maintained, please use react-scripts instead which support typescript out of the box
 
